@@ -20,7 +20,7 @@ Tech Stack 📦
 Installation 🛠️
 
 1. Clone the Repository
-git clone https://github.com/your-username/agriguard.git
+git clone https://github.com/SUTEJREDDYPUDIPARTHI/AGRIGUARD-Plant-Disease-Detection-and-Management-System
 
 2. Install Dependencies
 pip install -r requirements.txt
